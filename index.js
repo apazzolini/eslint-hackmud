@@ -1,6 +1,5 @@
 "use strict";
 
-var requireIndex = require("requireindex");
 module.exports.processors = {
     ".js": {
         preprocess: function(text, filename) {

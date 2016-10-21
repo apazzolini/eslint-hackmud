@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-hackmud`:
 
 ```
-$ npm install eslint-plugin-hackmud --save-dev
+$ npm i eslint-plugin-hackmud --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-hackmud` globally.
