@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-hackmud",
+  "name": "eslint-plugin-hackmud",
   "version": "0.1.0",
   "description": "Preprocessor for hackmud files",
   "keywords": [
