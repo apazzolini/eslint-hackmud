@@ -8,6 +8,8 @@ module.exports.processors = {
               .replace(/#s\./g, '$s.')
             ;
 
+            if (parsedText.indexOf('function') !== 0) return [parsedText];
+
             return ['(' + parsedText + ');\n'];
         },
 
